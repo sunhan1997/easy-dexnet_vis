@@ -1,0 +1,349 @@
+2023-11-14 20:39:40,972 - DEBUG - loaded <trimesh.Trimesh(vertices.shape=(1567, 3), faces.shape=(3120, 3), name=`Gear.obj`)> using `load_obj` in 0.0068s
+2023-11-14 20:39:41,001 - DEBUG - 4 items cleared from cache: ['triangles_cross', 'triangles_center', 'area_faces', 'centroid']
+2023-11-14 20:39:41,003 - DEBUG - 4 items cleared from cache: ['triangles_cross', 'triangles_center', 'area_faces', 'centroid']
+2023-11-14 20:39:41,078 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,079 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,079 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,080 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,081 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,081 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,083 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,083 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,084 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,085 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,085 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,086 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,086 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,087 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,088 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,088 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,089 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,090 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,090 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,091 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,092 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,092 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,093 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,094 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,094 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,095 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,095 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,096 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,097 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,097 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,098 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,099 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,100 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,100 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,101 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,101 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,102 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,103 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,104 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,105 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,105 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,106 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,106 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,107 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,108 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,108 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,109 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,110 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,111 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,111 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,112 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,112 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,113 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,114 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,114 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,115 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,116 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,116 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,117 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,118 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,118 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,119 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,120 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,120 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,121 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,121 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,122 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,123 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,123 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,125 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,125 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,126 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,126 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,128 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,128 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,129 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,129 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,130 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,131 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,131 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,133 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,133 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,134 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,134 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,135 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,136 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,137 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,137 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,138 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,139 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,139 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,141 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,141 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,142 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,143 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,143 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,144 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,145 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,145 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,146 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,147 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,147 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,148 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,148 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,149 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,150 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,150 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,151 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,152 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,152 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,153 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,153 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,154 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,155 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,156 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,156 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,157 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,157 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,158 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,158 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,159 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,159 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,160 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,160 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,161 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,161 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,161 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,162 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,162 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,163 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,163 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,164 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,165 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,165 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,166 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,167 - DEBUG - _find_grasp 交点数检查出错，物体:Gear 
+2023-11-14 20:39:41,168 - DEBUG - _find_grasp 交点数检查出错，物体:Gear 
+2023-11-14 20:39:41,168 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,169 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,170 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,170 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,171 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,171 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,171 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,172 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,172 - DEBUG - _find_grasp 成功生成2个抓取，物体:Gear 
+2023-11-14 20:39:41,173 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,173 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,174 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,175 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,176 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,177 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,177 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,178 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,178 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,179 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,179 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,179 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,180 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,180 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,181 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,182 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,182 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,182 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,183 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,183 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,184 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,185 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,185 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,186 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,186 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,187 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,187 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,188 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,188 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,189 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,189 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,190 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,190 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,191 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,191 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,192 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,192 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,193 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,193 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,194 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,195 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,195 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,196 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,196 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,197 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,197 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,198 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,198 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,199 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,199 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,200 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,201 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,202 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,202 - DEBUG - _find_grasp 交点数检查出错，物体:Gear 
+2023-11-14 20:39:41,202 - DEBUG - _find_grasp 交点数检查出错，物体:Gear 
+2023-11-14 20:39:41,203 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,203 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,204 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,204 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,205 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,205 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,205 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,206 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,206 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,207 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,207 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,208 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,208 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,209 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,209 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,210 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,211 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,212 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,212 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,213 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,213 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,213 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,214 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,215 - DEBUG - sample_grasps 成功生成一个抓取
+2023-11-14 20:39:41,215 - DEBUG - _find_grasp 成功生成1个抓取，物体:Gear 
+2023-11-14 20:39:41,216 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,216 - DEBUG - _find_grasp 抓取生成失败，物体:Gear 
+2023-11-14 20:39:41,235 - DEBUG - CVH took 0.005 sec
+2023-11-14 20:39:41,236 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:41,727 - DEBUG - Min dist took 0.491 sec for 1206 vertices
+2023-11-14 20:39:41,734 - DEBUG - CVH took 0.006 sec
+2023-11-14 20:39:41,735 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:42,302 - DEBUG - Min dist took 0.566 sec for 1462 vertices
+2023-11-14 20:39:42,307 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:42,307 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:42,683 - DEBUG - Min dist took 0.376 sec for 896 vertices
+2023-11-14 20:39:42,689 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:42,689 - DEBUG - Min norm took 0.000 sec
+2023-11-14 20:39:43,050 - DEBUG - Min dist took 0.361 sec for 896 vertices
+2023-11-14 20:39:43,056 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:43,056 - DEBUG - Min norm took 0.000 sec
+2023-11-14 20:39:43,429 - DEBUG - Min dist took 0.373 sec for 896 vertices
+2023-11-14 20:39:43,435 - DEBUG - CVH took 0.006 sec
+2023-11-14 20:39:43,436 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:44,020 - DEBUG - Min dist took 0.583 sec for 1460 vertices
+2023-11-14 20:39:44,025 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:44,026 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:44,389 - DEBUG - Min dist took 0.363 sec for 896 vertices
+2023-11-14 20:39:44,394 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:44,395 - DEBUG - Min norm took 0.000 sec
+2023-11-14 20:39:44,774 - DEBUG - Min dist took 0.380 sec for 896 vertices
+2023-11-14 20:39:44,781 - DEBUG - CVH took 0.006 sec
+2023-11-14 20:39:44,782 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:45,384 - DEBUG - Min dist took 0.602 sec for 1524 vertices
+2023-11-14 20:39:45,389 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:45,390 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:45,834 - DEBUG - Min dist took 0.444 sec for 1085 vertices
+2023-11-14 20:39:45,840 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:45,841 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:46,269 - DEBUG - Min dist took 0.429 sec for 1048 vertices
+2023-11-14 20:39:46,274 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:46,275 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:46,634 - DEBUG - Min dist took 0.359 sec for 896 vertices
+2023-11-14 20:39:46,639 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:46,640 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:47,001 - DEBUG - Min dist took 0.361 sec for 896 vertices
+2023-11-14 20:39:47,006 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:47,007 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:47,431 - DEBUG - Min dist took 0.424 sec for 1048 vertices
+2023-11-14 20:39:47,437 - DEBUG - CVH took 0.005 sec
+2023-11-14 20:39:47,438 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:47,968 - DEBUG - Min dist took 0.530 sec for 1317 vertices
+2023-11-14 20:39:47,974 - DEBUG - CVH took 0.005 sec
+2023-11-14 20:39:47,975 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:48,554 - DEBUG - Min dist took 0.579 sec for 1433 vertices
+2023-11-14 20:39:48,560 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:48,560 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:48,950 - DEBUG - Min dist took 0.389 sec for 940 vertices
+2023-11-14 20:39:48,956 - DEBUG - CVH took 0.005 sec
+2023-11-14 20:39:48,957 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:49,538 - DEBUG - Min dist took 0.581 sec for 1460 vertices
+2023-11-14 20:39:49,543 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:49,543 - DEBUG - Min norm took 0.000 sec
+2023-11-14 20:39:49,921 - DEBUG - Min dist took 0.378 sec for 896 vertices
+2023-11-14 20:39:49,927 - DEBUG - CVH took 0.005 sec
+2023-11-14 20:39:49,928 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:50,445 - DEBUG - Min dist took 0.518 sec for 1271 vertices
+2023-11-14 20:39:50,451 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:50,452 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:50,908 - DEBUG - Min dist took 0.456 sec for 1126 vertices
+2023-11-14 20:39:50,910 - DEBUG - CVH took 0.000 sec
+2023-11-14 20:39:50,910 - WARNING - Convex hull could not be computed
+2023-11-14 20:39:50,911 - DEBUG - CVH took 0.000 sec
+2023-11-14 20:39:50,911 - WARNING - Convex hull could not be computed
+2023-11-14 20:39:50,917 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:50,917 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:51,358 - DEBUG - Min dist took 0.441 sec for 1085 vertices
+2023-11-14 20:39:51,365 - DEBUG - CVH took 0.006 sec
+2023-11-14 20:39:51,366 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:51,948 - DEBUG - Min dist took 0.582 sec for 1456 vertices
+2023-11-14 20:39:51,953 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:51,953 - DEBUG - Min norm took 0.000 sec
+2023-11-14 20:39:52,317 - DEBUG - Min dist took 0.363 sec for 896 vertices
+2023-11-14 20:39:52,322 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:52,322 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:52,692 - DEBUG - Min dist took 0.369 sec for 896 vertices
+2023-11-14 20:39:52,697 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:52,698 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:53,057 - DEBUG - Min dist took 0.360 sec for 896 vertices
+2023-11-14 20:39:53,062 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:53,064 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:53,431 - DEBUG - Min dist took 0.367 sec for 896 vertices
+2023-11-14 20:39:53,437 - DEBUG - CVH took 0.005 sec
+2023-11-14 20:39:53,438 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:53,997 - DEBUG - Min dist took 0.558 sec for 1375 vertices
+2023-11-14 20:39:54,001 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:54,002 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:54,366 - DEBUG - Min dist took 0.363 sec for 896 vertices
+2023-11-14 20:39:54,371 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:54,371 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:54,734 - DEBUG - Min dist took 0.362 sec for 896 vertices
+2023-11-14 20:39:54,741 - DEBUG - CVH took 0.006 sec
+2023-11-14 20:39:54,741 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:55,346 - DEBUG - Min dist took 0.605 sec for 1524 vertices
+2023-11-14 20:39:55,351 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:55,352 - DEBUG - Min norm took 0.000 sec
+2023-11-14 20:39:55,713 - DEBUG - Min dist took 0.361 sec for 896 vertices
+2023-11-14 20:39:55,720 - DEBUG - CVH took 0.006 sec
+2023-11-14 20:39:55,721 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:56,254 - DEBUG - Min dist took 0.534 sec for 1280 vertices
+2023-11-14 20:39:56,261 - DEBUG - CVH took 0.006 sec
+2023-11-14 20:39:56,262 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:56,844 - DEBUG - Min dist took 0.582 sec for 1456 vertices
+2023-11-14 20:39:56,849 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:56,850 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:57,212 - DEBUG - Min dist took 0.362 sec for 896 vertices
+2023-11-14 20:39:57,219 - DEBUG - CVH took 0.006 sec
+2023-11-14 20:39:57,220 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:57,814 - DEBUG - Min dist took 0.594 sec for 1494 vertices
+2023-11-14 20:39:57,819 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:57,820 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:58,246 - DEBUG - Min dist took 0.426 sec for 1040 vertices
+2023-11-14 20:39:58,252 - DEBUG - CVH took 0.004 sec
+2023-11-14 20:39:58,252 - DEBUG - Min norm took 0.001 sec
+2023-11-14 20:39:58,623 - DEBUG - Min dist took 0.371 sec for 896 vertices
