@@ -66,6 +66,8 @@ pip install graspnetAPI
 4. 运行test/show_grasp.py进行可视化，这里抓取质量设置为0.1，即大于0.1的都会进行显示，在代码40行进行修改
 ```
 
+<img src="image/pose1.png" width="480" height="300"/><br/>
+<img src="image/pose2.png" width="400" height="300"/><br/>
 
 ##  Possible issues 
 1. The CAD model  maybe cause issue. 
